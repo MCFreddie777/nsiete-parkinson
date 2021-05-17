@@ -1,0 +1,2 @@
+data/parkinsons.data filter=lfs diff=lfs merge=lfs -text
+data/parkinsons.names filter=lfs diff=lfs merge=lfs -text
